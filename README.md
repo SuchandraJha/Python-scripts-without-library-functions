@@ -31,4 +31,6 @@ Select 'newfile.txt' -> Open with GIMP (Now you can see the equalised image).
 
 Bonus tips:
 i. Use a low contrast image to see the difference clearly.
+
 ii. Open original and new image side-by-side in GIMP to see the difference.
+
