@@ -24,7 +24,7 @@ iv. Now select this exported file -> Open With -> Notepad
 
 v. The third row gives rows*columns
 
-vi. From forth line, it gives the intensities in the form: R value for pixel1, G value for pixel1, B value for pixel 1, R value for pixel2, G value for pixel2,......
+vi. From forth line, it gives the intensities in the form: R value for pixel1, G value for pixel1, B value for pixel 1, R value for pixel2, G value for pixel2.......
 
 In this program, I have saved this txt file as 'txtImage6'
 Also, note the file path given in the first cell and edit it according to your image location.
