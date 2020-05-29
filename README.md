@@ -11,6 +11,7 @@ Applying k-means clustering algorithm on 3-dimension without using library funct
 An image is taken and it's intensities are found out by the following steps:
 i. Download GIMP software (for free). Here's a link: https://www.gimp.org/downloads/
 ii. Open the image in GIMP software.
+
 iii. File -> Export As -> Select name of the file and add 'ppm' as file extension -> Export -> Select data formatting as 'ASCII' -> Export
 iv. Now select this exported file -> Open With -> Notepad
 v. The third row gives rows*columns
