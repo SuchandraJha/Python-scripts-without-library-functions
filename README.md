@@ -9,12 +9,17 @@ Applying k-means clustering algorithm on 3-dimension without using library funct
 
 3. Histogram:
 An image is taken and it's intensities are found out by the following steps:
+
 i. Download GIMP software (for free). Here's a link: https://www.gimp.org/downloads/
+
 ii. Open the image in GIMP software.
 
 iii. File -> Export As -> Select name of the file and add 'ppm' as file extension -> Export -> Select data formatting as 'ASCII' -> Export
+
 iv. Now select this exported file -> Open With -> Notepad
+
 v. The third row gives rows*columns
+
 vi. From forth line, it gives the intensities in the form: R value for pixel1, G value for pixel1, B value for pixel 1, R value for pixel2, G value for pixel2,......
 
 In this program, I have saved this txt file as 'txtImage6'
