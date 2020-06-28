@@ -51,3 +51,11 @@ Finally the performance of the model is measured.
 Disadvantage: Since the dataset is manually divided into test and train data, the consecutive rows from the beginning are taken as train data.
 The remaining rows at the bottom are used as test data.
 This should not be done and the dataset should be divided randomly.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+PROGRAM NUMBER 5: K-means clustering on image:
+Similar to applying k-means on 3D, it is applied on an image.
+The R, G and B components of each pixel is taken as the three axes.
+The number of clusters is taken as input and k-means algorithm is applied (without library functions).
+The final output shows segmented image, in 'k' segments.
