@@ -38,3 +38,16 @@ i. Use a low contrast image to see the difference clearly.
 
 ii. Open original and new image side-by-side in GIMP to see the difference.
 
+----------------------------------------------------------------------------------------------------------------------------
+
+PROGRAM NUMBER 4. KNN classification on BC dataset:
+A dataset DS_BC is taken which provides medical data on breast cancer.
+In this program, I have considered radius and smoothness of tumors, to classify it as benign or malignant.
+The dataset is manually divided into training and testing data (as given by user).
+The value of 'k' for KNN classification is also entered by the user.
+Then each of the test data is classified as benign or malignant, as per algorithm.
+Finally the performance of the model is measured.
+
+Disadvantage: Since the dataset is manually divided into test and train data, the consecutive rows from the beginning are taken as train data.
+The remaining rows at the bottom are used as test data.
+This should not be done and the dataset should be divided randomly.
